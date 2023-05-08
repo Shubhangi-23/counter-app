@@ -1,0 +1,39 @@
+body{
+  background-color: aqua;
+  justify-content: center;
+  text-align: center;
+  text-decoration: solid;
+}
+
+
+.quantity_minus{
+  
+  height: 20PX;
+  width: 20px;
+  border: 10px;
+  background-color: hotpink;
+}
+
+
+.quantity_input{
+  width: 82px;
+  height: 59px;
+  margin: 0;
+  padding:0;
+  text-align: center;
+  border-top: 2px solid;
+  border-bottom: 2px solid;
+  background:gold;
+  text-decoration-color: antiquewhite;
+}
+.quantity_plus{
+  
+  height: 20PX;
+  width: 20px;
+  border: 10px;
+  background-color: hotpink;
+}
+
+
+
+
